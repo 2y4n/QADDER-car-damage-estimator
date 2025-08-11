@@ -4,7 +4,7 @@ This Project are a part of Building and Developing AI Models Bootcamp Requiremen
 Team members :
 - Rayan Alzamil
 - Khulud Alsulami
-- Roqaih Aldarjan
+- Najd Aldarjan
 - Marwah Thari
 
 # QADDER (Car Damage Estimator)
